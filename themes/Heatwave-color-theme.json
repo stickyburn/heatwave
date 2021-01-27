@@ -182,7 +182,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#4cee40"
+        "foreground": "#f2007b"
       }
     },
     {
@@ -205,7 +205,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#4cee40"
+        "foreground": "#f2007b"
       }
     },
     {
@@ -378,7 +378,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#4cee40"
       }
     },
     {
