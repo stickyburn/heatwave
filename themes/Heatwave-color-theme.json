@@ -32,6 +32,8 @@
     "editorSuggestWidget.background": "#0f0020",
     "breadcrumbPicker.background": "#0f0020",
     "quickInputTitle.background": "#0f0020",
+    "editorWidget.background": "#0f0020",
+    "editorHoverWidget.background": "#0f0020",
     "activityBar.foreground": "#f2007b",
     "activityBarBadge.foreground": "#feff00",
     "sideBar.foreground": "#f2007b",
