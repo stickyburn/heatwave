@@ -45,7 +45,9 @@
     "terminal.ansiMagenta": "#f2007b",
     "input.border": "#f2007b",
     "focusBorder": "#f2007b",
-    "editorLineNumber.foreground": "#f2007b"
+    "editorLineNumber.foreground": "#f2007b",
+    "statusBar.foreground": "#feff00",
+    "editorLink.activeForeground": "#feff00"
   },
   "tokenColors": [
     {
