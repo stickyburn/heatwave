@@ -1,0 +1,21 @@
+{
+    "name": "heatwave",
+    "displayName": "heatwave",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Heatwave",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Heatwave-color-theme.json"
+            }
+        ]
+    }
+}
