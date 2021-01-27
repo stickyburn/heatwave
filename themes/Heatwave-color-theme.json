@@ -27,6 +27,11 @@
     "sideBarSectionHeader.background": "#0f0020",
     "activityBar.background": "#0f0020",
     "searchEditor.findMatchBackground": "#0f0020",
+    "quickInput.background": "#0f0020",
+    "listFilterWidget.background": "#0f0020",
+    "editorSuggestWidget.background": "#0f0020",
+    "breadcrumbPicker.background": "#0f0020",
+    "quickInputTitle.background": "#0f0020",
     "activityBar.foreground": "#f2007b",
     "activityBarBadge.foreground": "#feff00",
     "sideBar.foreground": "#f2007b",
@@ -49,7 +54,8 @@
     "statusBar.foreground": "#feff00",
     "scrollbarSlider.background": "#f2007b",
     "editorLink.activeForeground": "#feff00",
-    "statusBar.noFolderBackground": "#0f0020"
+    "statusBar.noFolderBackground": "#0f0020",
+    "editorOverviewRuler.deletedForeground": "#f2007b"
   },
   "tokenColors": [
     {
@@ -294,7 +300,7 @@
       "name": "Deleted",
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#f2007b"
       }
     },
     {
@@ -315,7 +321,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#f2007b"
       }
     },
     {
@@ -388,7 +394,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#C17E70"
+        "foreground": "#f2007b"
       }
     },
     {
@@ -406,7 +412,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#f2007b"
       }
     },
     {
@@ -469,7 +475,7 @@
       "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f07178"
+        "foreground": "#f2007b"
       }
     },
     {
@@ -477,7 +483,7 @@
       "scope": ["markup.bold", "markup.bold string"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#f07178"
+        "foreground": "#f2007b"
       }
     },
     {
@@ -492,7 +498,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#f07178"
+        "foreground": "#f2007b"
       }
     },
     {
