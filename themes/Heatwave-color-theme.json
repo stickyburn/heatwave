@@ -57,7 +57,7 @@
     "scrollbarSlider.background": "#f2007b",
     "editorLink.activeForeground": "#feff00",
     "statusBar.noFolderBackground": "#0f0020",
-    "editorOverviewRuler.deletedForeground": "#f2007b"
+    "editorOverviewRuler.deletedForeground": "#f2007b",
   },
   "tokenColors": [
     {
