@@ -1,4 +1,4 @@
-# Heatwave
+# Heatwave :rainbow: :pill:
 
 ## Since other themes weren't Retro enough
 
