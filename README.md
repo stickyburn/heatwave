@@ -1,10 +1,6 @@
 # Heatwave
 
-## since others weren't Retro enough
-
-### For more information
+## Since other themes weren't Retro enough
 
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
