@@ -2,62 +2,62 @@
   "name": "Heatwave",
   "type": "dark",
   "colors": {
-    "editor.background": "#0f0020",
+    "editor.background": "#1b0930",
     "editor.foreground": "#f2007b",
-    "activityBarBadge.background": "#0f0020",
-    "badge.background": "#0f0020",
-    "menu.background": "#0f0020",
-    "breadcrumb.background": "#0f0020",
-    "input.background": "#0f0020",
-    "panel.background": "#0f0020",
-    "sideBar.background": "#0f0020",
-    "dropdown.background": "#0f0020",
-    "statusBar.background": "#0f0020",
-    "list.dropBackground": "#0f0020",
-    "editorPane.background": "#0f0020",
-    "selection.background": "#0f0020",
-    "terminal.background": "#0f0020",
-    "minimap.background": "#0f0020",
-    "titleBar.activeBackground": "#0f0020",
+    "activityBarBadge.background": "#1b0930",
+    "badge.background": "#1b0930",
+    "menu.background": "#1b0930",
+    "breadcrumb.background": "#1b0930",
+    "input.background": "#1b0930",
+    "panel.background": "#1b0930",
+    "sideBar.background": "#1b0930",
+    "dropdown.background": "#1b0930",
+    "statusBar.background": "#1b0930",
+    "list.dropBackground": "#1b0930",
+    "editorPane.background": "#1b0930",
+    "selection.background": "#1b0930",
+    "terminal.background": "#1b0930",
+    "minimap.background": "#1b0930",
+    "titleBar.activeBackground": "#1b0930",
     "titleBar.activeForeground": "#f2007b",
-    "tab.inactiveBackground": "#0f0020",
-    "editor.foldBackground": "#0f0020",
-    "sideBar.dropBackground": "#0f0020",
-    "editorGroupHeader.tabsBackground": "#0f0020",
-    "sideBarSectionHeader.background": "#0f0020",
-    "activityBar.background": "#0f0020",
-    "searchEditor.findMatchBackground": "#0f0020",
-    "quickInput.background": "#0f0020",
-    "listFilterWidget.background": "#0f0020",
-    "editorSuggestWidget.background": "#0f0020",
-    "breadcrumbPicker.background": "#0f0020",
-    "quickInputTitle.background": "#0f0020",
-    "editorWidget.background": "#0f0020",
-    "editorHoverWidget.background": "#0f0020",
+    "tab.inactiveBackground": "#1b0930",
+    "editor.foldBackground": "#1b0930",
+    "sideBar.dropBackground": "#1b0930",
+    "editorGroupHeader.tabsBackground": "#1b0930",
+    "sideBarSectionHeader.background": "#1b0930",
+    "activityBar.background": "#1b0930",
+    "searchEditor.findMatchBackground": "#1b0930",
+    "quickInput.background": "#1b0930",
+    "listFilterWidget.background": "#1b0930",
+    "editorSuggestWidget.background": "#1b0930",
+    "breadcrumbPicker.background": "#1b0930",
+    "quickInputTitle.background": "#1b0930",
+    "editorWidget.background": "#1b0930",
+    "editorHoverWidget.background": "#1b0930",
     "activityBar.foreground": "#f2007b",
-    "activityBarBadge.foreground": "#feff00",
+    "activityBarBadge.foreground": "#899eff",
     "sideBar.foreground": "#f2007b",
-    "tab.activeForeground": "#feff00",
-    "dropdown.listBackground": "#0f0020",
+    "tab.activeForeground": "#899eff",
+    "dropdown.listBackground": "#1b0930",
     "sideBarTitle.foreground": "#f2007b",
-    "settings.dropdownBackground": "#0f0020",
+    "settings.dropdownBackground": "#1b0930",
     "menu.foreground": "#f2007b",
     "input.foreground": "#f2007b",
     "button.background": "#f2007b",
-    "button.foreground": "#0f0020",
+    "button.foreground": "#1b0930",
     "statusBar.debuggingBackground": "#f2007b",
     "terminal.foreground": "#f2007b",
     "foreground": "#f2007b",
-    "terminal.ansiYellow": "#feff00",
+    "terminal.ansiYellow": "#899eff",
     "terminal.ansiMagenta": "#f2007b",
     "input.border": "#f2007b",
     "focusBorder": "#f2007b",
     "editorLineNumber.foreground": "#f2007b",
-    "statusBar.foreground": "#feff00",
+    "statusBar.foreground": "#899eff",
     "scrollbarSlider.background": "#f2007b",
-    "editorLink.activeForeground": "#feff00",
-    "statusBar.noFolderBackground": "#0f0020",
-    "editorOverviewRuler.deletedForeground": "#f2007b",
+    "editorLink.activeForeground": "#899eff",
+    "statusBar.noFolderBackground": "#1b0930",
+    "editorOverviewRuler.deletedForeground": "#f2007b"
   },
   "tokenColors": [
     {
@@ -72,7 +72,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#feff00"
+        "foreground": "#899eff"
       }
     },
     {
@@ -86,14 +86,14 @@
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#feff00"
+        "foreground": "#899eff"
       }
     },
     {
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#feff00"
+        "foreground": "#899eff"
       }
     },
     {
@@ -124,7 +124,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#f2007b"
+        "foreground": "#C792EA"
       }
     },
     {
@@ -144,14 +144,14 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#feff00"
+        "foreground": "#899eff"
       }
     },
     {
       "name": "Other Variable, String Link",
       "scope": ["support.other.variable", "string.other.link"],
       "settings": {
-        "foreground": "#feff00"
+        "foreground": "#899eff"
       }
     },
     {
@@ -230,7 +230,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#feff00"
+        "foreground": "#899eff"
       }
     },
     {
@@ -238,7 +238,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#feff00"
+        "foreground": "#899eff"
       }
     },
     {
@@ -256,7 +256,7 @@
         "variable.function.constructor"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#C792EA"
       }
     },
     {
@@ -369,7 +369,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#feff00"
+        "foreground": "#899eff"
       }
     },
     {
@@ -378,7 +378,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#4cee40"
+        "foreground": "#899eff"
       }
     },
     {
@@ -387,7 +387,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#899eff"
       }
     },
     {
@@ -396,7 +396,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#f2007b"
+        "foreground": "#899eff"
       }
     },
     {
@@ -405,7 +405,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#899eff"
       }
     },
     {
@@ -442,14 +442,14 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#feff00"
+        "foreground": "#899eff"
       }
     },
     {
       "name": "Markdown - Markup Raw Inline",
       "scope": ["text.html.markdown markup.inline.raw.markdown"],
       "settings": {
-        "foreground": "#feff00"
+        "foreground": "#899eff"
       }
     },
     {
@@ -458,7 +458,7 @@
         "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
       ],
       "settings": {
-        "foreground": "#feff00"
+        "foreground": "#899eff"
       }
     },
     {
