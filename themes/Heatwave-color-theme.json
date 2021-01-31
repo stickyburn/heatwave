@@ -35,9 +35,9 @@
     "editorWidget.background": "#110320",
     "editorHoverWidget.background": "#110320",
     "activityBar.foreground": "#cc1d74",
-    "activityBarBadge.foreground": "#e4c22a",
-    "sideBar.foreground": "#e4c22a",
-    "tab.activeForeground": "#e4c22a",
+    "activityBarBadge.foreground": "#eeca2a",
+    "sideBar.foreground": "#eeca2a",
+    "tab.activeForeground": "#eeca2a",
     "dropdown.listBackground": "#110320",
     "sideBarTitle.foreground": "#cc1d74",
     "settings.dropdownBackground": "#110320",
@@ -53,9 +53,9 @@
     "input.border": "#cc1d74",
     "focusBorder": "#cc1d74",
     "editorLineNumber.foreground": "#cc1d74",
-    "statusBar.foreground": "#e4c22a",
+    "statusBar.foreground": "#eeca2a",
     "scrollbarSlider.background": "#cc1d74",
-    "editorLink.activeForeground": "#e4c22a",
+    "editorLink.activeForeground": "#eeca2a",
     "statusBar.noFolderBackground": "#110320",
     "editorOverviewRuler.deletedForeground": "#cc1d74"
   },
@@ -93,7 +93,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#e4c22a"
+        "foreground": "#eeca2a"
       }
     },
     {
@@ -549,7 +549,7 @@
       "name": "Markdown - Link Anchor",
       "scope": ["constant.other.reference.link.markdown"],
       "settings": {
-        "foreground": "#e4c22a"
+        "foreground": "#eeca2a"
       }
     },
     {
