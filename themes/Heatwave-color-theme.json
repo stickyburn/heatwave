@@ -2,49 +2,49 @@
   "name": "Heatwave",
   "type": "dark",
   "colors": {
-    "editor.background": "#160b22",
+    "editor.background": "#110320",
     "editor.foreground": "#cc1d74",
-    "activityBarBadge.background": "#160b22",
-    "badge.background": "#160b22",
-    "menu.background": "#160b22",
-    "breadcrumb.background": "#160b22",
-    "input.background": "#160b22",
-    "panel.background": "#160b22",
-    "sideBar.background": "#160b22",
-    "dropdown.background": "#160b22",
-    "statusBar.background": "#160b22",
-    "list.dropBackground": "#160b22",
-    "editorPane.background": "#160b22",
-    "selection.background": "#160b22",
-    "terminal.background": "#160b22",
-    "minimap.background": "#160b22",
-    "titleBar.activeBackground": "#160b22",
+    "activityBarBadge.background": "#110320",
+    "badge.background": "#110320",
+    "menu.background": "#110320",
+    "breadcrumb.background": "#110320",
+    "input.background": "#110320",
+    "panel.background": "#110320",
+    "sideBar.background": "#110320",
+    "dropdown.background": "#110320",
+    "statusBar.background": "#110320",
+    "list.dropBackground": "#110320",
+    "editorPane.background": "#110320",
+    "selection.background": "#110320",
+    "terminal.background": "#110320",
+    "minimap.background": "#110320",
+    "titleBar.activeBackground": "#110320",
     "titleBar.activeForeground": "#cc1d74",
-    "tab.inactiveBackground": "#160b22",
-    "editor.foldBackground": "#160b22",
-    "sideBar.dropBackground": "#160b22",
-    "editorGroupHeader.tabsBackground": "#160b22",
-    "sideBarSectionHeader.background": "#160b22",
-    "activityBar.background": "#160b22",
-    "searchEditor.findMatchBackground": "#160b22",
-    "quickInput.background": "#160b22",
-    "listFilterWidget.background": "#160b22",
-    "editorSuggestWidget.background": "#160b22",
-    "breadcrumbPicker.background": "#160b22",
-    "quickInputTitle.background": "#160b22",
-    "editorWidget.background": "#160b22",
-    "editorHoverWidget.background": "#160b22",
+    "tab.inactiveBackground": "#110320",
+    "editor.foldBackground": "#110320",
+    "sideBar.dropBackground": "#110320",
+    "editorGroupHeader.tabsBackground": "#110320",
+    "sideBarSectionHeader.background": "#110320",
+    "activityBar.background": "#110320",
+    "searchEditor.findMatchBackground": "#110320",
+    "quickInput.background": "#110320",
+    "listFilterWidget.background": "#110320",
+    "editorSuggestWidget.background": "#110320",
+    "breadcrumbPicker.background": "#110320",
+    "quickInputTitle.background": "#110320",
+    "editorWidget.background": "#110320",
+    "editorHoverWidget.background": "#110320",
     "activityBar.foreground": "#cc1d74",
-    "activityBarBadge.foreground": "#899eff",
-    "sideBar.foreground": "#cc1d74",
-    "tab.activeForeground": "#899eff",
-    "dropdown.listBackground": "#160b22",
+    "activityBarBadge.foreground": "#e4c22a",
+    "sideBar.foreground": "#e4c22a",
+    "tab.activeForeground": "#e4c22a",
+    "dropdown.listBackground": "#110320",
     "sideBarTitle.foreground": "#cc1d74",
-    "settings.dropdownBackground": "#160b22",
+    "settings.dropdownBackground": "#110320",
     "menu.foreground": "#cc1d74",
     "input.foreground": "#cc1d74",
     "button.background": "#cc1d74",
-    "button.foreground": "#160b22",
+    "button.foreground": "#110320",
     "statusBar.debuggingBackground": "#cc1d74",
     "terminal.foreground": "#cc1d74",
     "foreground": "#cc1d74",
@@ -53,10 +53,10 @@
     "input.border": "#cc1d74",
     "focusBorder": "#cc1d74",
     "editorLineNumber.foreground": "#cc1d74",
-    "statusBar.foreground": "#899eff",
+    "statusBar.foreground": "#e4c22a",
     "scrollbarSlider.background": "#cc1d74",
-    "editorLink.activeForeground": "#899eff",
-    "statusBar.noFolderBackground": "#160b22",
+    "editorLink.activeForeground": "#e4c22a",
+    "statusBar.noFolderBackground": "#110320",
     "editorOverviewRuler.deletedForeground": "#cc1d74"
   },
   "tokenColors": [
@@ -93,7 +93,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#899eff"
+        "foreground": "#e4c22a"
       }
     },
     {
@@ -178,11 +178,17 @@
         "constant.other.key",
         "entity.other.inherited-class",
         "markup.heading",
-        "markup.inserted.git_gutter",
-        "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+        "markup.inserted.git_gutter"
       ],
       "settings": {
         "foreground": "#cc1d74"
+      }
+    },
+    {
+      "name": "String",
+      "scope": ["string.unquoted.js"],
+      "settings": {
+        "foreground": "#899eff"
       }
     },
     {
@@ -543,7 +549,7 @@
       "name": "Markdown - Link Anchor",
       "scope": ["constant.other.reference.link.markdown"],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#e4c22a"
       }
     },
     {
