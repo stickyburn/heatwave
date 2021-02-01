@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "editor.background": "#110320",
-    "editor.foreground": "#cc1d74",
+    "editor.foreground": "#f2007b",
     "activityBarBadge.background": "#110320",
     "badge.background": "#110320",
     "menu.background": "#110320",
@@ -19,7 +19,7 @@
     "terminal.background": "#110320",
     "minimap.background": "#110320",
     "titleBar.activeBackground": "#110320",
-    "titleBar.activeForeground": "#cc1d74",
+    "titleBar.activeForeground": "#f2007b",
     "tab.inactiveBackground": "#110320",
     "editor.foldBackground": "#110320",
     "sideBar.dropBackground": "#110320",
@@ -34,30 +34,30 @@
     "quickInputTitle.background": "#110320",
     "editorWidget.background": "#110320",
     "editorHoverWidget.background": "#110320",
-    "activityBar.foreground": "#cc1d74",
+    "activityBar.foreground": "#f2007b",
     "activityBarBadge.foreground": "#eeca2a",
-    "sideBar.foreground": "#eeca2a",
-    "tab.activeForeground": "#eeca2a",
+    "sideBar.foreground": "#feff00",
+    "tab.activeForeground": "#feff00",
     "dropdown.listBackground": "#110320",
-    "sideBarTitle.foreground": "#cc1d74",
+    "sideBarTitle.foreground": "#f2007b",
     "settings.dropdownBackground": "#110320",
-    "menu.foreground": "#cc1d74",
-    "input.foreground": "#cc1d74",
-    "button.background": "#cc1d74",
+    "menu.foreground": "#f2007b",
+    "input.foreground": "#f2007b",
+    "button.background": "#f2007b",
     "button.foreground": "#110320",
-    "statusBar.debuggingBackground": "#cc1d74",
-    "terminal.foreground": "#cc1d74",
-    "foreground": "#cc1d74",
+    "statusBar.debuggingBackground": "#f2007b",
+    "terminal.foreground": "#f2007b",
+    "foreground": "#f2007b",
     "terminal.ansiYellow": "#899eff",
-    "terminal.ansiMagenta": "#cc1d74",
-    "input.border": "#cc1d74",
-    "focusBorder": "#cc1d74",
-    "editorLineNumber.foreground": "#cc1d74",
-    "statusBar.foreground": "#eeca2a",
-    "scrollbarSlider.background": "#cc1d74",
-    "editorLink.activeForeground": "#eeca2a",
+    "terminal.ansiMagenta": "#f2007b",
+    "input.border": "#f2007b",
+    "focusBorder": "#f2007b",
+    "editorLineNumber.foreground": "#f2007b",
+    "statusBar.foreground": "#feff00",
+    "scrollbarSlider.background": "#f2007b",
+    "editorLink.activeForeground": "#feff00",
     "statusBar.noFolderBackground": "#110320",
-    "editorOverviewRuler.deletedForeground": "#cc1d74"
+    "editorOverviewRuler.deletedForeground": "#f2007b"
   },
   "tokenColors": [
     {
@@ -287,14 +287,14 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#cc1d74"
+        "foreground": "#899eff"
       }
     },
     {
       "name": "CSS ID's",
       "scope": ["source.sass keyword.control"],
       "settings": {
-        "foreground": "#cc1d74"
+        "foreground": "#899eff"
       }
     },
     {
@@ -315,14 +315,14 @@
       "name": "Changed",
       "scope": ["markup.changed"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#899eff"
       }
     },
     {
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#899eff"
       }
     },
     {
