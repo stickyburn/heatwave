@@ -124,7 +124,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#899eff"
       }
     },
     {
@@ -262,14 +262,14 @@
         "variable.function.constructor"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#899eff"
       }
     },
     {
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#899eff"
       }
     },
     {
