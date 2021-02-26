@@ -35,7 +35,7 @@
     "editorWidget.background": "#1b1d26",
     "editorHoverWidget.background": "#1b1d26",
     "activityBar.foreground": "#f20092",
-    "activityBarBadge.foreground": "#eeca2a",
+    "activityBarBadge.foreground": "#feff00",
     "sideBar.foreground": "#feff00",
     "tab.activeForeground": "#feff00",
     "dropdown.listBackground": "#1b1d26",
@@ -181,14 +181,14 @@
         "markup.inserted.git_gutter"
       ],
       "settings": {
-        "foreground": "#ee00ee"
+        "foreground": "#eeca2a"
       }
     },
     {
       "name": "String",
       "scope": ["string.unquoted.js"],
       "settings": {
-        "foreground": "#a6b5fd"
+        "foreground": "#eeca2a"
       }
     },
     {
