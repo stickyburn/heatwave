@@ -2,53 +2,53 @@
   "name": "Heatwave",
   "type": "dark",
   "colors": {
-    "editor.background": "#1b1b26",
+    "editor.background": "#08070c",
     "editor.foreground": "#ff007b",
-    "activityBarBadge.background": "#1b1b26",
-    "badge.background": "#1b1b26",
-    "menu.background": "#1b1b26",
+    "activityBarBadge.background": "#08070c",
+    "badge.background": "#08070c",
+    "menu.background": "#08070c",
     "editorCursor.foreground": "#feff00",
     "terminalCursor.foreground": "#feff00",
-    "breadcrumb.background": "#1b1b26",
-    "input.background": "#1b1b26",
-    "panel.background": "#1b1b26",
-    "sideBar.background": "#1b1b26",
-    "dropdown.background": "#1b1b26",
-    "debugToolBar.background": "#1b1b26",
-    "statusBar.background": "#1b1b26",
+    "breadcrumb.background": "#08070c",
+    "input.background": "#08070c",
+    "panel.background": "#08070c",
+    "sideBar.background": "#08070c",
+    "dropdown.background": "#08070c",
+    "debugToolBar.background": "#08070c",
+    "statusBar.background": "#08070c",
     "editorWidget.foreground": "#ff007b",
-    "list.dropBackground": "#1b1b26",
-    "editorPane.background": "#1b1b26",
-    "selection.background": "#1b1b26",
-    "terminal.background": "#1b1b26",
-    "minimap.background": "#1b1b26",
-    "titleBar.activeBackground": "#1b1b26",
+    "list.dropBackground": "#08070c",
+    "editorPane.background": "#08070c",
+    "selection.background": "#08070c",
+    "terminal.background": "#08070c",
+    "minimap.background": "#08070c",
+    "titleBar.activeBackground": "#08070c",
     "titleBar.activeForeground": "#ff007b",
-    "tab.inactiveBackground": "#1b1b26",
-    "editor.foldBackground": "#1b1b26",
-    "sideBar.dropBackground": "#1b1b26",
-    "editorGroupHeader.tabsBackground": "#1b1b26",
-    "sideBarSectionHeader.background": "#1b1b26",
-    "activityBar.background": "#1b1b26",
-    "searchEditor.findMatchBackground": "#1b1b26",
-    "quickInput.background": "#1b1b26",
-    "listFilterWidget.background": "#1b1b26",
-    "editorSuggestWidget.background": "#1b1b26",
-    "breadcrumbPicker.background": "#1b1b26",
-    "quickInputTitle.background": "#1b1b26",
-    "editorWidget.background": "#1b1b26",
-    "editorHoverWidget.background": "#1b1b26",
+    "tab.inactiveBackground": "#08070c",
+    "editor.foldBackground": "#08070c",
+    "sideBar.dropBackground": "#08070c",
+    "editorGroupHeader.tabsBackground": "#08070c",
+    "sideBarSectionHeader.background": "#08070c",
+    "activityBar.background": "#08070c",
+    "searchEditor.findMatchBackground": "#08070c",
+    "quickInput.background": "#08070c",
+    "listFilterWidget.background": "#08070c",
+    "editorSuggestWidget.background": "#08070c",
+    "breadcrumbPicker.background": "#08070c",
+    "quickInputTitle.background": "#08070c",
+    "editorWidget.background": "#08070c",
+    "editorHoverWidget.background": "#08070c",
     "activityBar.foreground": "#f20092",
     "activityBarBadge.foreground": "#feff00",
     "sideBar.foreground": "#feff00",
     "tab.activeForeground": "#feff00",
-    "dropdown.listBackground": "#1b1b26",
+    "dropdown.listBackground": "#08070c",
     "sideBarTitle.foreground": "#ff007b",
-    "settings.dropdownBackground": "#1b1b26",
+    "settings.dropdownBackground": "#08070c",
     "menu.foreground": "#ff007b",
     "input.foreground": "#ff007b",
     "button.background": "#ff007b",
-    "button.foreground": "#1b1b26",
+    "button.foreground": "#08070c",
     "statusBar.debuggingBackground": "#ff007b",
     "terminal.foreground": "#ff007b",
     "foreground": "#ff007b",
@@ -60,15 +60,15 @@
     "statusBar.foreground": "#feff00",
     "scrollbarSlider.background": "#ff007b",
     "editorLink.activeForeground": "#feff00",
-    "statusBar.noFolderBackground": "#1b1b26",
+    "statusBar.noFolderBackground": "#08070c",
     // Gutter indicators (left)
-    "editorGutter.modifiedBackground": "#1b1b26",
-    "editorGutter.addedBackground": "#1b1b26",
-    "editorGutter.deletedBackground": "#1b1b26",
+    "editorGutter.modifiedBackground": "#08070c",
+    "editorGutter.addedBackground": "#08070c",
+    "editorGutter.deletedBackground": "#08070c",
     // Scrollbar indicators (right)
-    "editorOverviewRuler.addedForeground": "#1b1b26",
-    "editorOverviewRuler.modifiedForeground": "#1b1b26",
-    "editorOverviewRuler.deletedForeground": "#1b1b26"
+    "editorOverviewRuler.addedForeground": "#08070c",
+    "editorOverviewRuler.modifiedForeground": "#08070c",
+    "editorOverviewRuler.deletedForeground": "#08070c"
   },
   "tokenColors": [
     {
@@ -131,7 +131,7 @@
         "variable.other.object.js"
       ],
       "settings": {
-        "foreground": "#f39c12"
+        "foreground": "#f3a62b"
       }
     },
     {
@@ -154,7 +154,7 @@
         "text.xml punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#FFE66D"
+        "foreground": "#f3a62b"
       }
     },
     {
@@ -165,7 +165,7 @@
         "variable.language.special.self.python"
       ],
       "settings": {
-        "foreground": "#ff00aa"
+        "foreground": "#f92672"
       }
     },
     {
@@ -194,14 +194,14 @@
         "source.js support.type"
       ],
       "settings": {
-        "foreground": "#c74ded"
+        "foreground": "#f92672"
       }
     },
     {
       "name": "Blue",
       "scope": ["string.regexp", "markup.changed"],
       "settings": {
-        "foreground": "#7cb7ff"
+        "foreground": "#00e8c6"
       }
     },
     {
@@ -219,7 +219,7 @@
         "markup.deleted"
       ],
       "settings": {
-        "foreground": "#ee5d43"
+        "foreground": "#96E072"
       }
     },
     {
