@@ -2,53 +2,53 @@
   "name": "Heatwave",
   "type": "dark",
   "colors": {
-    "editor.background": "#08070c",
+    "editor.background": "#0d0313",
     "editor.foreground": "#ff007b",
-    "activityBarBadge.background": "#08070c",
-    "badge.background": "#08070c",
-    "menu.background": "#08070c",
+    "activityBarBadge.background": "#0d0313",
+    "badge.background": "#0d0313",
+    "menu.background": "#0d0313",
     "editorCursor.foreground": "#feff00",
     "terminalCursor.foreground": "#feff00",
-    "breadcrumb.background": "#08070c",
-    "input.background": "#08070c",
-    "panel.background": "#08070c",
-    "sideBar.background": "#08070c",
-    "dropdown.background": "#08070c",
-    "debugToolBar.background": "#08070c",
-    "statusBar.background": "#08070c",
+    "breadcrumb.background": "#0d0313",
+    "input.background": "#0d0313",
+    "panel.background": "#0d0313",
+    "sideBar.background": "#0d0313",
+    "dropdown.background": "#0d0313",
+    "debugToolBar.background": "#0d0313",
+    "statusBar.background": "#0d0313",
     "editorWidget.foreground": "#ff007b",
-    "list.dropBackground": "#08070c",
-    "editorPane.background": "#08070c",
-    "selection.background": "#08070c",
-    "terminal.background": "#08070c",
-    "minimap.background": "#08070c",
-    "titleBar.activeBackground": "#08070c",
+    "list.dropBackground": "#0d0313",
+    "editorPane.background": "#0d0313",
+    "selection.background": "#0d0313",
+    "terminal.background": "#0d0313",
+    "minimap.background": "#0d0313",
+    "titleBar.activeBackground": "#0d0313",
     "titleBar.activeForeground": "#ff007b",
-    "tab.inactiveBackground": "#08070c",
-    "editor.foldBackground": "#08070c",
-    "sideBar.dropBackground": "#08070c",
-    "editorGroupHeader.tabsBackground": "#08070c",
-    "sideBarSectionHeader.background": "#08070c",
-    "activityBar.background": "#08070c",
-    "searchEditor.findMatchBackground": "#08070c",
-    "quickInput.background": "#08070c",
-    "listFilterWidget.background": "#08070c",
-    "editorSuggestWidget.background": "#08070c",
-    "breadcrumbPicker.background": "#08070c",
-    "quickInputTitle.background": "#08070c",
-    "editorWidget.background": "#08070c",
-    "editorHoverWidget.background": "#08070c",
+    "tab.inactiveBackground": "#0d0313",
+    "editor.foldBackground": "#0d0313",
+    "sideBar.dropBackground": "#0d0313",
+    "editorGroupHeader.tabsBackground": "#0d0313",
+    "sideBarSectionHeader.background": "#0d0313",
+    "activityBar.background": "#0d0313",
+    "searchEditor.findMatchBackground": "#0d0313",
+    "quickInput.background": "#0d0313",
+    "listFilterWidget.background": "#0d0313",
+    "editorSuggestWidget.background": "#0d0313",
+    "breadcrumbPicker.background": "#0d0313",
+    "quickInputTitle.background": "#0d0313",
+    "editorWidget.background": "#0d0313",
+    "editorHoverWidget.background": "#0d0313",
     "activityBar.foreground": "#f20092",
     "activityBarBadge.foreground": "#feff00",
     "sideBar.foreground": "#feff00",
     "tab.activeForeground": "#feff00",
-    "dropdown.listBackground": "#08070c",
+    "dropdown.listBackground": "#0d0313",
     "sideBarTitle.foreground": "#ff007b",
-    "settings.dropdownBackground": "#08070c",
+    "settings.dropdownBackground": "#0d0313",
     "menu.foreground": "#ff007b",
     "input.foreground": "#ff007b",
     "button.background": "#ff007b",
-    "button.foreground": "#08070c",
+    "button.foreground": "#0d0313",
     "statusBar.debuggingBackground": "#ff007b",
     "terminal.foreground": "#ff007b",
     "foreground": "#ff007b",
@@ -60,25 +60,20 @@
     "statusBar.foreground": "#feff00",
     "scrollbarSlider.background": "#ff007b",
     "editorLink.activeForeground": "#feff00",
-    "statusBar.noFolderBackground": "#08070c",
+    "statusBar.noFolderBackground": "#0d0313",
     // Gutter indicators (left)
-    "editorGutter.modifiedBackground": "#08070c",
-    "editorGutter.addedBackground": "#08070c",
-    "editorGutter.deletedBackground": "#08070c",
+    "editorGutter.modifiedBackground": "#0d0313",
+    "editorGutter.addedBackground": "#0d0313",
+    "editorGutter.deletedBackground": "#0d0313",
     // Scrollbar indicators (right)
-    "editorOverviewRuler.addedForeground": "#08070c",
-    "editorOverviewRuler.modifiedForeground": "#08070c",
-    "editorOverviewRuler.deletedForeground": "#08070c"
+    "editorOverviewRuler.addedForeground": "#0d0313",
+    "editorOverviewRuler.modifiedForeground": "#0d0313",
+    "editorOverviewRuler.deletedForeground": "#0d0313"
   },
   "tokenColors": [
     {
       "name": "Comment color",
-      "scope": [
-        "comment",
-        "markup.quote.markdown",
-        "meta.diff",
-        "meta.diff.header"
-      ],
+      "scope": ["comment", "markup.quote.markdown", "meta.diff", "meta.diff.header"],
       "settings": {
         "foreground": "#6d6f73"
       }
@@ -109,7 +104,7 @@
         "meta.structure.dictionary.json support.type.property-name"
       ],
       "settings": {
-        "foreground": "#00e8c6"
+        "foreground": "#00ffff"
       }
     },
     {
@@ -159,13 +154,9 @@
     },
     {
       "name": "Pink",
-      "scope": [
-        "markup.heading",
-        "variable.language.this.js",
-        "variable.language.special.self.python"
-      ],
+      "scope": ["markup.heading", "variable.language.this.js", "variable.language.special.self.python"],
       "settings": {
-        "foreground": "#f92672"
+        "foreground": "#d81e78"
       }
     },
     {
@@ -180,28 +171,21 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#f92672"
+        "foreground": "#d81e78"
       }
     },
     {
       "name": "Purple",
-      "scope": [
-        "storage",
-        "keyword",
-        "meta.link",
-        "meta.image",
-        "markup.italic",
-        "source.js support.type"
-      ],
+      "scope": ["storage", "keyword", "meta.link", "meta.image", "markup.italic", "source.js support.type"],
       "settings": {
-        "foreground": "#f92672"
+        "foreground": "#d81e78"
       }
     },
     {
       "name": "Blue",
       "scope": ["string.regexp", "markup.changed"],
       "settings": {
-        "foreground": "#00e8c6"
+        "foreground": "#00ffff"
       }
     },
     {
