@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "editor.background": "#0d0313",
-    "editor.foreground": "#ff007b",
+    "editor.foreground": "#fefae0",
     "activityBarBadge.background": "#0d0313",
     "badge.background": "#0d0313",
     "menu.background": "#0d0313",
@@ -156,7 +156,7 @@
       "name": "Pink",
       "scope": ["markup.heading", "variable.language.this.js", "variable.language.special.self.python"],
       "settings": {
-        "foreground": "#d81e78"
+        "foreground": "#fefae0"
       }
     },
     {
@@ -171,14 +171,14 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#d81e78"
+        "foreground": "#fefae0"
       }
     },
     {
       "name": "Purple",
       "scope": ["storage", "keyword", "meta.link", "meta.image", "markup.italic", "source.js support.type"],
       "settings": {
-        "foreground": "#d81e78"
+        "foreground": "#fefae0"
       }
     },
     {
